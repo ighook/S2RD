@@ -223,6 +223,7 @@
             // 
             this.btnAllCommandApply.BackColor = System.Drawing.Color.Moccasin;
             this.btnAllCommandApply.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.btnAllCommandApply.Font = new System.Drawing.Font("맑은 고딕", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnAllCommandApply.Location = new System.Drawing.Point(360, 0);
             this.btnAllCommandApply.Name = "btnAllCommandApply";
             this.btnAllCommandApply.Size = new System.Drawing.Size(361, 40);
